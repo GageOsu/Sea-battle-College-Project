@@ -1,2 +1,2 @@
 # Sea-battle-College-Project
-Морской бой на C# 
+Морской бой на C# WPF
